@@ -1,0 +1,16 @@
+body {
+    background-color: #00e00b;
+color: white;
+font-family: "Noto Sans TC", sans-serif;
+display: flex;
+justify-content: center;
+    align-items: center;
+ height: 700px;
+ margin: 0;
+}
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Noto Sans TC", sans-serif;
+
+}
